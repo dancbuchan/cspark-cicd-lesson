@@ -1,4 +1,4 @@
-from app-dancbuchan import app
+from dancbuchan import app
 
 def test_add():
     assert app.add(1,1) == 2
